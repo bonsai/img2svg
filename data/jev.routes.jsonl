@@ -1,0 +1,2 @@
+{"input":"logo.png","intent":"logo","engine":"vtracer","mode":"polygon","hierarchical":"cutout","max_colors":16,"filter_speckle":4}
+{"input":"lineart.png","intent":"lineart","engine":"vtracer","mode":"spline","hierarchical":"stacked","max_colors":2,"filter_speckle":2}
